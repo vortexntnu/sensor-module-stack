@@ -1,3 +1,6 @@
 *.SchDocPreview
 *.PrjPCB.Zip
 *.LOG
+*.PcbDocPreview
+
+*.Zip
